@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WindowsWellick/bin/Debug/net8.0
+/WindowsWellick/.vs/WindowsWellick
