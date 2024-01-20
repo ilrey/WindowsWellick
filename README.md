@@ -15,5 +15,5 @@ string extractedCode = ExtractText(loadedImage);
 CompileCode(extractedCode);
 ```
 # Dependencies
-Microsoft.CodeAnalysis version=4.8.0
-System.Drawing.Common version=8.0.1
+- Microsoft.CodeAnalysis version=4.8.0
+- System.Drawing.Common version=8.0.1
