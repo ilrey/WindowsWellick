@@ -8,12 +8,12 @@ Additionally, the code extraction from an image is accomplished using steganogra
 
 2. Compile C# Code: Call the CompileCode method, passing the C# code snippet you want to dynamically compile. This method takes care of the compilation process.
 
-#Execution Example
+# Execution Example
 ```cs
 Bitmap loadedImage = LoadImage(imageFilePath);
 string extractedCode = ExtractText(loadedImage);
 CompileCode(extractedCode);
 ```
-#Dependencies
+# Dependencies
 Microsoft.CodeAnalysis version=4.8.0
 System.Drawing.Common version=8.0.1
